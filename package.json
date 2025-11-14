@@ -1,0 +1,21 @@
+{
+  "name": "conversation",
+  "version": "0.1.0",
+  "scripts": {
+    "lint": "npx eslint --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarsislimadev/conversation.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tarsislimadev/conversation/issues"
+  },
+  "homepage": "https://github.com/tarsislimadev/conversation#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "eslint": "^9.39.1",
+    "globals": "^16.5.0"
+  }
+}
