@@ -1,0 +1,12 @@
+#videos {
+  display: flex;
+  justify-content: space-between;
+  background-color: #000000;
+}
+
+#start {
+  padding: calc(1rem / 4);
+  color: #ffffff;
+  border: none;
+  background-color: #000000;
+}
